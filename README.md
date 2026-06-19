@@ -13,9 +13,22 @@ Created by **LessPlum3393**, Dodo Bot OS provides a modular and extensible platf
 * 🔌 Modular and extensible architecture
 * 🛠️ Designed for embedded hardware, IoT devices, and connected hardware projects
 
-## Download
+## Downloads
+
+### Standard
+
+Official builds developed and maintained by **LessPlum3393**.
 
 **Coming Soon™**
+
+### Community
+
+Community-maintained builds created by other developers for supported hardware.
+
+**Coming Soon™**
+
+> **Release Policy:** Dodo Bot OS is released on a per-device basis. Each hardware platform has its own release cycle, version history, and feature set. Version numbers are specific to each device and may differ between hardware. Even if two devices share the same version number (e.g. **v1.0.0**), they may include different features, drivers, and capabilities based on the hardware they support.
+
 
 ## License
 
