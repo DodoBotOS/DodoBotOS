@@ -39,7 +39,7 @@ Community-maintained builds created by other developers for supported hardware.
 | Status              | Meaning                                                                                                                                                                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 🟢 **Stable**       | Fully supported and recommended. Dodo Bot OS runs reliably with all major features working as expected.                                                                                                                        |
-| 🟡 **Experimental** | Supported, but some features may not work correctly. Stability issues, crashes, or hardware limitations may occur. **Not recommended** for daily use.                                                                          |
+| 🟡 **Experimental** | Supported, but some features may not work correctly. Stability issues, crashes, or hardware limitations may occur. Not recommended for daily use. This status may also be used for hardware that the maintainer does not own, so the build has not been fully tested on physical hardware.                                                                          |
 | 🔴 **Discontinued** | Development for this hardware has ended due to hardware limitations or unsupported capabilities. Existing releases remain available, but no further updates will be provided. Functionality may vary depending on the version. |
 
 ## License
