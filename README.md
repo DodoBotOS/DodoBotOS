@@ -22,7 +22,7 @@ Created by **LessPlum3393**, Dodo Bot OS provides a modular and extensible platf
 
 ### Standard
 
-Official builds developed and maintained by **LessPlum3393**.
+Official builds developed and maintained by **LessPlum3393**. (AI generated btw)
 
 **Coming Soon™**
 
