@@ -13,6 +13,10 @@ Created by **LessPlum3393**, Dodo Bot OS provides a modular and extensible platf
 * 🔌 Modular and extensible architecture
 * 🛠️ Designed for embedded hardware, IoT devices, and connected hardware projects
 
+## Download
+
+**Coming Soon™**
+
 ## License
 
 Dodo Bot OS is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
