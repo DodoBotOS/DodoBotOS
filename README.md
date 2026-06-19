@@ -6,6 +6,11 @@ Created by **LessPlum3393**, Dodo Bot OS provides a modular and extensible platf
 
 > **Disclaimer:** Dodo Bot OS is an independent project created by **LessPlum3393**. It is **not affiliated with, endorsed by, or associated with** the original **Dodo Bot** created by **dodogames**.
 
+> [!NOTE]
+> **All official Dodo Bot OS software, source code, documentation, images, and other content are generated with the assistance of AI.** If you prefer not to use AI-assisted projects, you are free to use an alternative.
+>
+> This notice does **not** apply to **Community** builds or contributions unless their authors explicitly state that AI was used.
+
 ## Features
 
 * 🤖 Built-in Dodo Bot
