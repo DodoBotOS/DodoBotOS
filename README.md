@@ -30,9 +30,9 @@ Created by **LessPlum3393**, Dodo Bot OS provides a modular and extensible platf
 
 Official builds developed and maintained by **LessPlum3393**. (AI generated btw)
 
-|                          Image                         | Device                                  | Node JS Version | Dodo Bot Version |   OS Version   |      Status     |   Download   |
-| :----------------------------------------------------: | --------------------------------------- | :----------: | :----------: | :----------: | :-------------: | :----------: |
-|   <img src="assets/3a8468e6-e5c4-453b-95fb-5c8fc6ed076b.png" width="300">  | **Luckfox Pico Plus (Rockchip RV1103)** | v22.23.0 (LTS) | v3.0.4 |    v1.0.0    |    :green_circle: Stable    | [Download](https://github.com/DodoBotOS/Luckfox-Pico-Plus/releases/download/1.0.0/Dodo-Bot-OS-v1.0.0-Luckfox-Pico-Plus-RV1103.zip) |
+|                          Image                         | Device                                  | Node JS Version | Dodo Bot Version |   OS Version   |      Status     | Username & Password |   Download   |
+| :----------------------------------------------------: | --------------------------------------- | :----------: | :----------: | :----------: | :-------------: | :----------: | :----------: |
+|   <img src="assets/3a8468e6-e5c4-453b-95fb-5c8fc6ed076b.png" width="300">  | **Luckfox Pico Plus (Rockchip RV1103)** | v22.23.0 (LTS) | v3.0.4 |    v1.0.0    |    :green_circle: Stable | Username: root Password: root   | [Download](https://github.com/DodoBotOS/Luckfox-Pico-Plus/releases/download/1.0.0/Dodo-Bot-OS-v1.0.0-Luckfox-Pico-Plus-RV1103.zip) |
 
 ### Community
 
