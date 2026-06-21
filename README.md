@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="assets/9ebd36e2-0f41-498c-840b-d887bd506288.png" alt="Dodo OS Bot">
+</p>
+<div align="center">
+  
 # Dodo Bot OS
-
 **Dodo Bot OS** is an embedded operating system featuring a built-in **Dodo Bot**.
+
+</div>
 
 Created by **LessPlum3393**, Dodo Bot OS provides a modular and extensible platform designed for **embedded hardware, IoT devices, and other connected hardware projects**.
 
