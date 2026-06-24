@@ -28,7 +28,7 @@ Created by **LessPlum3393**, Dodo Bot OS provides a modular and extensible platf
 
 ### Standard
 
-Official builds developed and maintained by **LessPlum3393**. (AI generated btw)
+Official builds developed and maintained by **LessPlum3393**.
 
 |                          Image                         | Device                                  | Node JS Version | Dodo Bot Version |   OS Version   |      Status     | Username & Password |   Download   |
 | :----------------------------------------------------: | --------------------------------------- | :----------: | :----------: | :----------: | :-------------: | :----------: | :----------: |
