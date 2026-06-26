@@ -33,7 +33,7 @@ Official builds developed and maintained by **LessPlum3393**.
 |                          Image                         | Device                                  | Node JS Version | Dodo Bot Version |   OS Version   |      Status     | Username & Password |   Download   |
 | :----------------------------------------------------: | --------------------------------------- | :----------: | :----------: | :----------: | :-------------: | :----------: | :----------: |
 |   <img src="assets/3a8468e6-e5c4-453b-95fb-5c8fc6ed076b.png" width="300">  | **Luckfox Pico Plus (Rockchip RV1103)** | v22.23.0 (LTS) | v3.0.4 |    v1.0.0    |    :green_circle: Stable | Username: root <br> Password: luckfox   | [Download](https://github.com/DodoBotOS/Luckfox-Pico-Plus/releases/download/1.0.0/Dodo-Bot-OS-v1.0.0-Luckfox-Pico-Plus-RV1103.zip) |
-| <img src="assets/56520644-1886-4cc3-8309-946c9202571f.png" width="300"> | **Milk-V Duo S (SG2000)** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** |
+| <img src="assets/56520644-1886-4cc3-8309-946c9202571f.png" width="300"> | **Milk-V Duo S (SG2000)** | v26.3.1 | v3.0.4 | v1.0.0 | :green_circle: Stable | Username: root <br> Password: rv | **Coming Soon™** |
 | <img src="assets/db84326b-d79a-4e01-8120-3838b6973d10.png" width="300"> | **Milk-V Duo 256M (SG2002)** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** |
 
 ### Community
