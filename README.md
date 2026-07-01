@@ -34,10 +34,10 @@ Official builds developed and maintained by **LessPlum3393**.
 | :----------------------------------------------------: | --------------------------------------- | :----------: | :----------: | :----------: | :-------------: | :----------: | :----------: |
 |   <img src="assets/3a8468e6-e5c4-453b-95fb-5c8fc6ed076b.png" width="300">  | **Luckfox Pico Plus (Rockchip RV1103)** | v22.23.0 (LTS) | v3.0.4 |    v1.0.0    |    :green_circle: Stable | Username: root <br> Password: luckfox   | [Download](https://github.com/DodoBotOS/Luckfox-Pico-Plus/releases/download/1.0.0/Dodo-Bot-OS-v1.0.0-Luckfox-Pico-Plus-RV1103.zip) |
 | <img src="assets/56520644-1886-4cc3-8309-946c9202571f.png" width="300"> | **Milk-V Duo S (SG2000)** | v26.3.1 | v3.0.4 | v1.0.0 | :green_circle: Stable | Username: root <br> Password: rv | [Download](https://github.com/DodoBotOS/Milk-V-Duo-S/releases/download/1.0.0/Dodo-Bot-OS-v1.0.0-Milk-V-Duo-S-SG2000.7z) |
-| <img src="assets/db84326b-d79a-4e01-8120-3838b6973d10.png" width="300"> | **Milk-V Duo 256M (SG2002)** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** |
 | <img src="assets/12457d6c-defd-4a31-b141-5cfcf97b1ca8.png" width="300"> | **Raspberry Pi 4 (Broadcom BCM2711)** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** |
 | <img src="assets/714131f4-8084-4063-888f-6db65efd5ea7.png" width="300"> | **Orange Pi Zero 2W (Allwinner H618)** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** |
 | <img src="assets/507e91c7-f7ab-4d20-8dac-b44502392b7d.png" width="300"> | **Radxa Cubie A7Z (Allwinner A733)** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** |
+| <img src="assets/db84326b-d79a-4e01-8120-3838b6973d10.png" width="300"> | **Milk-V Duo 256M (SG2002)** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** | **Coming Soon™** |
 
 ### Community
 
